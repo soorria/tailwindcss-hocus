@@ -1,0 +1,12 @@
+{
+  "name": "tailwindcss-hocus",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "author": "Soorria Saruva <soorria.ss@gmail.com> (http://soorria.com/)",
+  "repository": "https://github.com/soorria/tailwindcss-hocus",
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  }
+}
