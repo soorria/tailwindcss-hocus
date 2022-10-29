@@ -1,6 +1,6 @@
 # tailwindcss-hocus
 
-Adds `hocus:`, `hocus-within:`, `group-hocus:` and `group-hocus-within:` for
+Adds `hocus:`, `hocus-within:`, `group-hocus:`, `group-hocus-within:`, `peer-hocus:`, `peer-hocus-within:` for
 lazy people like me who use similar styles for `:hover` and `:focus` states.
 
 ## Installation
