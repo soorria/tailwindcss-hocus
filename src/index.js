@@ -8,7 +8,7 @@ const plugin = require('tailwindcss/plugin')
  * @returns {boolean}
  */
 const futureFlagEnabled = (config, flag) => {
-  return config.future === 'all' || (config?.future?.[flag] ?? defaults[flag] ?? false)
+  return config.future === 'all' || (config?.future?.[flag] ?? false)
 }
 
 /**
