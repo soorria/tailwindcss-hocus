@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-hocus",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "author": "Soorria Saruva <soorria.ss@gmail.com> (http://soorria.com/)",
