@@ -3,7 +3,11 @@
 Adds `hocus:`, `hocus-within:`, `group-hocus:`, `group-hocus-within:`, `peer-hocus:`, `peer-hocus-within:` for
 lazy people like me who use similar styles for `:hover` and `:focus` states.
 
+Works with Tailwind v4!!
+
 ## Installation
+
+> [!Note] If you're using Tailwind v3, you should install `tailwindcss-hocus@0.0.7`
 
 ```sh
 npm i -D tailwindcss-hocus
